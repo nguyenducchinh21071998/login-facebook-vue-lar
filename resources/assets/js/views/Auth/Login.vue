@@ -16,7 +16,7 @@
             </a> <br />
         </div>
     </form>
-</template> 
+</template>
 <script type="text/javascript">
     import Auth from '../../store/auth'
     import {get,post} from '../../helpers/api'
