@@ -14,7 +14,7 @@
     "axios-mock-adapter": "^1.9.0",
     "cross-env": "^5.0.1",
     "jasmine-core": "^3.3.0",
-    "karma": "^4.0.0",
+    "karma": "^6.3.14",
     "karma-babel-preprocessor": "^8.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-cli": "^2.0.0",
